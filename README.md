@@ -11,7 +11,7 @@ HOPE YOU LIKE IT.
 - Single-player Tetris gameplay with level progression (up to level 8).
 - Next-piece preview for better planning.
 - Pause/resume with an on-screen button.
-- Simple controls: move, rotate, and fast-fall within seconds.
+- Simple controls: move, rotate, and fast-fall are easy to learn.
 - Eye-catching visuals with a consistent theme and custom backgrounds.
 - Sound effects for start, pause, line clear, and game over.
 
