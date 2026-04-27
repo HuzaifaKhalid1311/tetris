@@ -1,3 +1,0 @@
-﻿  Tetris.cpp
-D:\OneDrive - FAST National University\Desktop\Tetris\Tetris.cpp(129,1): warning C4715: 'TetrominoFactory::CreateRandomTetromino': not all control paths return a value
-  Tetris.vcxproj -> D:\OneDrive - FAST National University\Desktop\Tetris\x64\Debug\Tetris.exe
